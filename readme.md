@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your WiFi password retrieval script.
-
----
 
 # WiFi Password Retriever
 
